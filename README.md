@@ -1,3 +1,3 @@
 # Hello-World
 Learning How to Use GitHub
-One step at a time.
+one step at a time.
